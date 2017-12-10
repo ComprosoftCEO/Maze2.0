@@ -1,5 +1,4 @@
-# Maze 2.0:
-## John Smith and the Pyramids of Doom
+# Maze 2.0: John Smith and the Pyramids of Doom
 
 You are the legendary adventurer, John Smith, renound for your invaluable advances in archeology and history. After an egyptian digging site uncovers an unknown civlization known as the Mazons, you must go on an epic quest to explore the ancient Mazon temple known as "The Pyramid of Doom." Collect keys, find secret passages, discover hidden codes, and solve puzzles on John Smith's most exciting adventure yet...
 
